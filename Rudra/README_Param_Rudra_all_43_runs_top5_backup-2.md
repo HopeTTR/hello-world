@@ -28,9 +28,9 @@
 | `run_17` | 161.030 | 372 | 338 | 9 | Transfer planned; not verified |
 | `run_47` | 152.469 | 953 | 907 | 7 | Transfer planned; not verified |
 | `run_43` | 110.386 | 360 | 319 | 8 | Transfer planned; not verified |
-| `run_24` | 73.229 | 181 | 165 | 2 | Transfer planned; not verified |
+| `run_16` | 62.192 | 723 | 690 | 2 | Transfer planned; not verified |
 | `run_19` | 69.751 | 169 | 151 | 3 | Transfer planned; not verified |
-| **TOTAL** | **566.865** | **2,035** | **1,880** | **29** | **Not yet transferred** |
+| **TOTAL** | **555.828** | **2,577** | **2405** | **29** | **Not yet transferred** |
 
 Counts are inferred from filenames by the inventory script; they are not an integrity verification. All directories are located at `/scratch/IITB/CompnalAstrphyNRelvity/23n0315/<run_id>`.
 
@@ -48,13 +48,11 @@ The following table follows the user-supplied screenshot, **not the earlier 43-r
 | `run_13` | 12.227 | 45 | 26 | 3 | 2 | 1 | 1 | 1 | No |
 | `run_14` | 14.894 | 401 | 369 | 2 | 0 | 2 | 2 | 2 | No |
 | `run_15` | 5.478 | 24 | 8 | 2 | 0 | 1 | 1 | 1 | No |
-| `run_16` | 62.192 | 723 | 690 | 2 | 0 | 2 | 2 | 2 | No |
+| `run_16` | 62.192 | 723 | 690 | 2 | 0 | 2 | 2 | 2 | **YES — top five** |
 | `run_17` | 161.030 | 372 | 338 | 9 | 0 | 1 | 1 | 9 | **YES — top five** |
 | `run_19` | 69.751 | 169 | 151 | 3 | 0 | 1 | 1 | 3 | **YES — top five** |
 | `run_21` | 44.568 | 112 | 96 | 2 | 0 | 1 | 1 | 3 | No |
 | `run_22` | 18.087 | 39 | 21 | 4 | 0 | 1 | 1 | 3 | No |
-| `run_24` | 73.229 | 181 | 165 | 2 | 0 | 1 | 1 | 3 | **YES — top five** |
-| `run_25` | 6.375 | 25 | 7 | 2 | 0 | 1 | 1 | 5 | No |
 | `run_27` | 5.263 | 22 | 7 | 1 | 0 | 1 | 1 | 3 | No |
 | `run_29` | 8.992 | 26 | 11 | 1 | 0 | 1 | 1 | 3 | No |
 | `run_31` | 36.444 | 359 | 321 | 4 | 0 | 2 | 2 | 10 | No |
