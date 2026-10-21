@@ -4,7 +4,7 @@
 **Research area:** Computational astrophysics; numerical evolution of white dwarfs using FLASH (hydrodynamics, rotation and magnetohydrodynamics). MESA stellar models are used for initial conditions.  
 **Research user:** `23n0315`  
 **Original inventory:** 2026-10-16 (43 directories)  
-**Updated inventory:** Screenshot supplied 2026-10-21 (32 remaining listed run directories; inventory command date unverified)  
+**Updated inventory:** Screenshot supplied 2026-10-21 (30 remaining listed run directories; inventory command date unverified)  
 **README updated:** 2026-10-21  
 **Scratch root:** `/scratch/IITB/CompnalAstrphyNRelvity/23n0315`  
 **Non-scratch home directory:** `/home/IITB/CompnalAstrphyNRelvity/23n0315/`  
